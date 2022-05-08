@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at efood.gr (part of DeliveryHero)
+- 🔭 I’m currently working at [efood.gr](@efood) (part of [DeliveryHero](@deliveryhero)), a company that provides delivery services to the Greek market.
 - ⚙️  I use daily : Python, R, Google Colab, and Docker.
 - 🌱  I’m currently advancing my knowledge of Causal Inference
 - 👯  I’m looking to collaborate on interesting data projects around behavioural science
@@ -9,4 +9,4 @@
     - [googleAnalyticsProphetR](https://github.com/IronistM/googleAnalyticsProphetR),
     - [googleAnalyticsModelR](https://github.com/IronistM/googleAnalyticsModelR)
 - 💬  Ask me about data science, machine learning, digital analytics, AB tests or anything else you’d like to learn more about.
-- 📫  How to reach me: tidiest.mesh0e@icloud.com
+- 📫  How to reach me: dropn an email at tidiest.mesh0e@icloud.com

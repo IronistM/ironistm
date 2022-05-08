@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [efood.gr](@efood) (part of [DeliveryHero](@deliveryhero)), a company that provides delivery services to the Greek market.
+- 🔭 I’m currently working at [efood.gr](https://www.e-food.gr) (part of [DeliveryHero](https://www.deliveryhero.com)), a company that provides delivery services to the Greek market.
 - ⚙️  I use daily : Python, R, Google Colab, and Docker.
 - 🌱  I’m currently advancing my knowledge of Causal Inference
 - 👯  I’m looking to collaborate on interesting data projects around behavioural science

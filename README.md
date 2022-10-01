@@ -9,4 +9,6 @@
     - [googleAnalyticsProphetR](https://github.com/IronistM/googleAnalyticsProphetR),
     - [googleAnalyticsModelR](https://github.com/IronistM/googleAnalyticsModelR)
 - 💬  Ask me about data science, machine learning, digital analytics, AB tests or anything else you’d like to learn more about.
-- 📫  How to reach me: dropn an email at tidiest.mesh0e@icloud.com
+- 📫  How to reach me: drop an email at tidiest.mesh0e@icloud.com
+
+### Latest links to checkout
